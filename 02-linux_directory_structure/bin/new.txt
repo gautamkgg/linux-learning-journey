@@ -1,0 +1,3 @@
+Hello i am copying this file form file.txt to a.txt
+In this section i learn copy file one to anothe, renaming file, view contentent in file,
+deleting fiel, seening current path.

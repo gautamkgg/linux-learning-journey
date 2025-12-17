@@ -1,0 +1,2 @@
+Hello i am copying this file form file.txt to a.txt
+
