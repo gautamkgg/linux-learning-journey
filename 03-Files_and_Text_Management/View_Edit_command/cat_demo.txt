@@ -1,0 +1,2 @@
+Hello, Everyone my name is Gautam Kumar. I am currently study File and Text Managment in linux journey study. My goal to study this topic in detail. In this section i will study all command such that cat, tac, less, more, head, tail, etc
+heoo

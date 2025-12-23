@@ -1,0 +1,6 @@
+Hello Everyone
+My name is Gautam Kumar
+I am studing File and Text Mangagment
+This is Linux Journey
+Learning cat and tac command
+

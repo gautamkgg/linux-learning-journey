@@ -1,0 +1,175 @@
+Linux File and Text Management Demo
+
+Line 1: This file is created to demonstrate the less command.
+Line 2: The less command is used to view large text files.
+Line 3: It allows scrolling forward and backward.
+Line 4: You can move one page at a time.
+Line 5: You can search inside the file.
+Line 6: Press / to search for a word.
+Line 7: Press n to go to next match.
+Line 8: Press q to quit less.
+
+Line 9: Less is better than more.
+Line 10: More cannot scroll backward easily.
+Line 11: Less is fast and efficient.
+Line 12: It is widely used in Linux systems.
+
+Line 13: This line is added for scrolling.
+Line 14: Keep scrolling down.
+Line 15: More lines means better demo.
+Line 16: Still scrolling.
+Line 17: Almost there.
+Line 18: A few more lines.
+
+Line 19: This is near the end of the file.
+Line 20: End of demonstration file.
+Linux File and Text Management Demo
+
+Line 1: This file is created to demonstrate the less command.
+Line 2: The less command is used to view large text files.
+Line 3: It allows scrolling forward and backward.
+Line 4: You can move one page at a time.
+Line 5: You can search inside the file.
+Line 6: Press / to search for a word.
+Line 7: Press n to go to next match.
+Line 8: Press q to quit less.
+
+Line 9: Less is better than more.
+Line 10: More cannot scroll backward easily.
+Line 11: Less is fast and efficient.
+Line 12: It is widely used in Linux systems.
+
+Line 13: This line is added for scrolling.
+Line 14: Keep scrolling down.
+Line 15: More lines means better demo.
+Line 16: Still scrolling.
+Line 17: Almost there.
+Line 18: A few more lines.
+
+Line 19: This is near the end of the file.
+Line 20: End of demonstration file.
+Linux File and Text Management Demo
+
+Line 1: This file is created to demonstrate the less command.
+Line 2: The less command is used to view large text files.
+Line 3: It allows scrolling forward and backward.
+Line 4: You can move one page at a time.
+Line 5: You can search inside the file.
+Line 6: Press / to search for a word.
+Line 7: Press n to go to next match.
+Line 8: Press q to quit less.
+
+Line 9: Less is better than more.
+Line 10: More cannot scroll backward easily.
+Line 11: Less is fast and efficient.
+Line 12: It is widely used in Linux systems.
+
+Line 13: This line is added for scrolling.
+Line 14: Keep scrolling down.
+Line 15: More lines means better demo.
+Line 16: Still scrolling.
+Line 17: Almost there.
+Line 18: A few more lines.
+
+Line 19: This is near the end of the file.
+Line 20: End of demonstration file.
+Linux File and Text Management Demo
+
+Line 1: This file is created to demonstrate the less command.
+Line 2: The less command is used to view large text files.
+Line 3: It allows scrolling forward and backward.
+Line 4: You can move one page at a time.
+Line 5: You can search inside the file.
+Line 6: Press / to search for a word.
+Line 7: Press n to go to next match.
+Line 8: Press q to quit less.
+
+Line 9: Less is better than more.
+Line 10: More cannot scroll backward easily.
+Line 11: Less is fast and efficient.
+Line 12: It is widely used in Linux systems.
+
+Line 13: This line is added for scrolling.
+Line 14: Keep scrolling down.
+Line 15: More lines means better demo.
+Line 16: Still scrolling.
+Line 17: Almost there.
+Line 18: A few more lines.
+
+Line 19: This is near the end of the file.
+Line 20: End of demonstration file.
+Linux File and Text Management Demo
+
+Line 1: This file is created to demonstrate the less command.
+Line 2: The less command is used to view large text files.
+Line 3: It allows scrolling forward and backward.
+Line 4: You can move one page at a time.
+Line 5: You can search inside the file.
+Line 6: Press / to search for a word.
+Line 7: Press n to go to next match.
+Line 8: Press q to quit less.
+
+Line 9: Less is better than more.
+Line 10: More cannot scroll backward easily.
+Line 11: Less is fast and efficient.
+Line 12: It is widely used in Linux systems.
+
+Line 13: This line is added for scrolling.
+Line 14: Keep scrolling down.
+Line 15: More lines means better demo.
+Line 16: Still scrolling.
+Line 17: Almost there.
+Line 18: A few more lines.
+
+Line 19: This is near the end of the file.
+Line 20: End of demonstration file.
+Linux File and Text Management Demo
+
+Line 1: This file is created to demonstrate the less command.
+Line 2: The less command is used to view large text files.
+Line 3: It allows scrolling forward and backward.
+Line 4: You can move one page at a time.
+Line 5: You can search inside the file.
+Line 6: Press / to search for a word.
+Line 7: Press n to go to next match.
+Line 8: Press q to quit less.
+
+Line 9: Less is better than more.
+Line 10: More cannot scroll backward easily.
+Line 11: Less is fast and efficient.
+Line 12: It is widely used in Linux systems.
+
+Line 13: This line is added for scrolling.
+Line 14: Keep scrolling down.
+Line 15: More lines means better demo.
+Line 16: Still scrolling.
+Line 17: Almost there.
+Line 18: A few more lines.
+
+Line 19: This is near the end of the file.
+Line 20: End of demonstration file.
+Linux File and Text Management Demo
+
+Line 1: This file is created to demonstrate the less command.
+Line 2: The less command is used to view large text files.
+Line 3: It allows scrolling forward and backward.
+Line 4: You can move one page at a time.
+Line 5: You can search inside the file.
+Line 6: Press / to search for a word.
+Line 7: Press n to go to next match.
+Line 8: Press q to quit less.
+
+Line 9: Less is better than more.
+Line 10: More cannot scroll backward easily.
+Line 11: Less is fast and efficient.
+Line 12: It is widely used in Linux systems.
+
+Line 13: This line is added for scrolling.
+Line 14: Keep scrolling down.
+Line 15: More lines means better demo.
+Line 16: Still scrolling.
+Line 17: Almost there.
+Line 18: A few more lines.
+
+Line 19: This is near the end of the file.
+Line 20: End of demonstration file.
