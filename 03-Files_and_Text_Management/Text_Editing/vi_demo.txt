@@ -1,0 +1,8 @@
+Hello wold i wirting vi editor that is very complext every doing by just use command
+:wa
+:wq
+hello world
+:w
+hello world hel
+ 
+k 
