@@ -1,0 +1,10 @@
+System started successfully
+User gautam logged in
+Error: Disk not found
+Network connection established
+Error: Permission denied
+User admin logged out
+System shutdown initiated
+linux open source operating system
+newton give three law of motion
+i am Learning Linux
